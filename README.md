@@ -8,7 +8,7 @@
 - Looking for a job;
 
 ## 🚀 Tecnologias Utilizadas/Aprendidas
-=================
+
 <!--ts-->
    * HTML5
    * CSS3
@@ -22,7 +22,7 @@
    * Java
    * Arduíno
    * C/C#/C++
-   * Analise de Requisito
+   * Requirement analysis
 <!--te-->
 
 ![gaabsgarcia's github stats](https://github-readme-stats.vercel.app/api?username=gaabsgarcia&show_icons=true&theme=dark)
