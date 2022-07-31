@@ -1,13 +1,11 @@
 # Hello, I'm Gabriella Garcia !
 
-- I'm 23 years old;
+- I'm 23 years old.
 - I love reading, writing, drawing and producing crazy things;
-- I'm a fullstack developer Web, but my passion is the back end;
-- I was an intern at two different companies and i've had my first opportunity as a developer. To learn more just click on LinkedIn.
+- I'm a fullstack Web/cloud developer, but my passion is the back end;
+- I was an intern at two different companies and had my second chance as a developer. To learn more, just click on LinkedIn.
 
-- Looking for a job;
-
-## 🚀 Tecnologias Utilizadas/Aprendidas
+## 🚀 Technologies Used/Learned
 
 <!--ts-->
    * HTML5
