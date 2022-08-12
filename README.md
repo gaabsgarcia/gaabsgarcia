@@ -21,6 +21,7 @@
    * Arduíno
    * C/C#/C++
    * Requirement analysis
+   * Network
 <!--te-->
 
 ![gaabsgarcia's github stats](https://github-readme-stats.vercel.app/api?username=gaabsgarcia&show_icons=true&theme=dark)
