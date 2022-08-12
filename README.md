@@ -18,7 +18,7 @@
    * SwaggerApi
    * PostgreSQL/MySql/SQLite
    * Java
-   * Arduíno
+   * Arduino
    * C/C#/C++
    * Requirement analysis
    * Network
